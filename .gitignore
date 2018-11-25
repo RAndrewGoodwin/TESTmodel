@@ -1,0 +1,14 @@
+.DS_Store
+Other/
+TESTsourceCode/build/CMakeFiles/
+TESTsourceCode/build/cmake_install.cmake
+TESTsourceCode/build/CMakeCache.txt
+TESTsourceCode/build/libelam.so
+TESTsourceCode/build/Makefile
+TESTsourceCode/solver/build/CMakeFiles/
+TESTsourceCode/solver/build/cmake_install.cmake
+TESTsourceCode/solver/build/libsolver.a
+TESTsourceCode/solver/build/Makefile
+TESTsourceCode/solver/build/nfsvalues1sim.mod
+TESTsourceCode/solver/build/random_millermodule.mod
+TESTsourceCode/solver/build/tecplotsim.mod
